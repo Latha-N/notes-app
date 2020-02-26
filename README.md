@@ -1,4 +1,4 @@
-# notes-app
+# Notes-app
 Note making App
 
 A simple note taking app with image uploads and categories built on ReactJS, Express, and Node.
